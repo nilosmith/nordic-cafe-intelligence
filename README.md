@@ -83,3 +83,13 @@ Downloadable PDF management reports
 Additional data visualizations
 
 Improved AI report formatting
+
+## Live Demo
+
+Try the application here: [Nordic Café Intelligence](https://nordic-cafe-intelligence-tgzem4vthbdkurzjvzsuzr.streamlit.app)
+
+The public demo includes interactive sales analytics, CSV uploads,
+customizable pricing, and business recommendations.
+
+The Gemini AI report generator is currently disabled in the public demo
+to prevent unauthorized API usage.
