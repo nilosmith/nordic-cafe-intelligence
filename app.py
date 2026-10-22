@@ -267,7 +267,10 @@ st.caption(
     "Always verify recommendations before acting on them."
 )
 
-if st.button("Generate AI Management Report"):
+ai_enabled = bool(st.secrets.get("GEMINI_API_KEY", ""))
+
+if st.button("Generate AI Management Report", disabled=not ai_enabled):
+
 
     with st.spinner("Gemini is analyzing your sales data..."):
 
