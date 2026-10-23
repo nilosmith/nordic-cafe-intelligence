@@ -93,3 +93,7 @@ customizable pricing, and business recommendations.
 
 The Gemini AI report generator is currently disabled in the public demo
 to prevent unauthorized API usage.
+
+## Dashboard Preview
+
+![Nordic Café Intelligence Dashboard](images/dashboard.png)
